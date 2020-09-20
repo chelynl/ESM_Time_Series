@@ -26,4 +26,11 @@ We want to explore the average monthly concentration of ozone (ppm) in a local a
 * Implemented techniques for getting stationary data such as taking the first difference
 * Tested whether the stationary series exhibited white noise using the Ljung-Box test
 * Explained implications for futher ARIMA modeling
-  
+
+### Data Visualizations:
+<img src="images/time_plot_monthly_data.png" width=400> <img src="images/trend_overlay.png" width=400>
+<img src="images/seasonally_adjusted.png" width=400>
+<img src="images/predicted_actual_overlay.png" width=400>
+<img src="images/STL_decomp.png" width=400>
+<img src="images/differenced_ts.png" width=400>
+<img src="images/Ljung_Box_Test.png" width=400>
