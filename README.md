@@ -33,4 +33,4 @@ We want to explore the average monthly concentration of ozone (ppm) in a local a
 <img src="images/predicted_actual_overlay.png" width=400>
 <img src="images/STL_decomp.png" width=400>
 <img src="images/differenced_ts.png" width=400>
-<img src="images/Ljung_Box_Test.png" width=400>
+<img src="images/Ljung_Box.png" width=400>
